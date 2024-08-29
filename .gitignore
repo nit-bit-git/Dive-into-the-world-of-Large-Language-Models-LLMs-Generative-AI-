@@ -1,0 +1,11 @@
+# Ignore all .txt files
+*.txt
+
+# Ignore all .pkl files
+*.pkl
+
+# Ignore all directories in the root directory
+/*/
+
+# Uncomment the following line if you want to ignore all files and folders recursively
+**/
