@@ -23,8 +23,8 @@ Their YouTube tutorials laid the foundation for this project and ignited our AI 
 
 🤖 What to Expect
 
-Basic LLM: Built from scratch, perfect for understanding core concepts<br/>
-Hands-on Learning: Dive deep into the inner workings of language models<br/>
+Basic LLM: Built from scratch, perfect for understanding core concepts<br>
+Hands-on Learning: Dive deep into the inner workings of language models<br>
 Springboard for Innovation: Use this as your starting point for more advanced projects
 
 
